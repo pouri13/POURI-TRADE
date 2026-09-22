@@ -1,0 +1,6 @@
+{
+  "name": "BACKTEST Platform",
+  "description": "Professional Windows desktop trading simulation, market replay, algorithmic backtesting, and strategy debugging platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
